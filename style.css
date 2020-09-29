@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Alatsi|Noto+Sans+TC|Sulphur+Point|Titillium+Web|Tomorrow:100&display=swap');
+
+/*
+font-family: 'Alatsi', sans-serif;
+font-family: 'Noto Sans TC', sans-serif;
+font-family: 'Sulphur Point', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Tomorrow', sans-serif;
+*/
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+  background-color: beige;
+}
+
+#serialCode {
+  font-family: 'Sulphur Point', sans-serif;
+  text-align: center;
+}
+
+.wire {
+  height: 1em;
+  border: 0px;
+  width: 100%
+}
+
+.white {
+  background-color: white;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+#strikesDisplay {
+  color: red;
+  font-size: 2em;
+  text-align: center;
+}
+
+#timer {
+  text-align: center;
+  font-size: 1.2em;
+  color: gray;
+}
